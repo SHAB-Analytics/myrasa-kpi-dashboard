@@ -41,6 +41,6 @@ A single self-contained HTML page built with **D3.js**, with all data embedded. 
 
 ## Source
 
-Based on *Individual Case Study 2: "Transforming the Malaysian Retail Experience through Smart Retailing: A Strategic Marketing Challenge for MyRasa SmartMart"*, OPMM6013 Strategic Marketing, MBA, Universiti Utara Malaysia (2026). The case itself is not included; this repository contains only the author's analysis.
+Based on *"Transforming the Malaysian Retail Experience through Smart Retailing: A Strategic Marketing Challenge for MyRasa SmartMart"*. The case itself is not included; this repository contains only the author's analysis.
 
 Prepared by **Shabnam Mohammed Sameer**.
